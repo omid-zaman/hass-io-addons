@@ -7,6 +7,6 @@
     "i386": "homeassistant/i386-base:3.12"
   },
   "args": {
-    "KNXD_VERSION": "0.14.39"
+    "KNXD_VERSION": "0.14.41"
   }
 }
